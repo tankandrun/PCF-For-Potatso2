@@ -1,0 +1,6 @@
+[RULESET.direct]
+name = "Direct"
+rules = [
+    "DOMAIN-SUFFIX, cn, DIRECT",
+    "GEOIP, cn, DIRECT"
+]

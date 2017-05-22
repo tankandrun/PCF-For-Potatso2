@@ -1,0 +1,7 @@
+[RULESET.proxy]
+name = "Proxy"
+rules = [
+    "DOMAIN-MATCH, google, PROXY",
+    "DOMAIN-MATCH, gstatic, PROXY"
+]
+

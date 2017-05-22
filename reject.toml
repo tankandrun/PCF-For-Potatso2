@@ -1,0 +1,5 @@
+[RULESET.reject]
+name = "Reject"
+rules = [
+    "DOMAIN, www.baidu.com, REJECT",
+]
