@@ -9,5 +9,6 @@ rules = [
     "DOMAIN-MATCH, instagram, PROXY",
     "DOMAIN-MATCH, twimg, PROXY",
     "DOMAIN-MATCH, twitter, PROXY",
+    "DOMAIN-MATCH, ifttt, PROXY"
 ]
 
